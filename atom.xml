@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ALittleBrother.github.io</id>
+    <title>Gridea</title>
+    <updated>2023-01-09T09:21:43.849Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ALittleBrother.github.io"/>
+    <link rel="self" href="https://ALittleBrother.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://ALittleBrother.github.io/images/avatar.png</logo>
+    <icon>https://ALittleBrother.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[2023 Flag]]></title>
+        <id>https://ALittleBrother.github.io/post/2023-flag/</id>
+        <link href="https://ALittleBrother.github.io/post/2023-flag/">
+        </link>
+        <updated>2023-01-09T08:53:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>2023 年的第一个小目标：<strong>活下去</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2023 年的第一个小目标：<strong>活下去</strong></p>
+<!-- more -->
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9581943"><label class="task-list-item-label" for="task-item-9581943"> 完成和巧玲的婚礼</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3591079"><label class="task-list-item-label" for="task-item-3591079"> 出去旅行至少 1 次</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5970579"><label class="task-list-item-label" for="task-item-5970579"> 和巧玲一起去音乐节</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1773235"><label class="task-list-item-label" for="task-item-1773235"> 减脂增肌</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8632894"><label class="task-list-item-label" for="task-item-8632894"> 阅读至少 3 本计算机经典书籍</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9653383"><label class="task-list-item-label" for="task-item-9653383"> 学习 Python 的 pandas 和 numpy 的基本使用</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6977660"><label class="task-list-item-label" for="task-item-6977660"> 学习一门新语言</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2558391"><label class="task-list-item-label" for="task-item-2558391"> 备考计算机高级</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6807322"><label class="task-list-item-label" for="task-item-6807322"> 考研？</label></li>
+</ul>
+]]></content>
+    </entry>
+</feed>
